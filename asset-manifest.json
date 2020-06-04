@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rindmind/static/css/main.e26ad487.chunk.css",
-    "main.js": "/rindmind/static/js/main.12ce6826.chunk.js",
-    "main.js.map": "/rindmind/static/js/main.12ce6826.chunk.js.map",
+    "main.js": "/rindmind/static/js/main.0bad1594.chunk.js",
+    "main.js.map": "/rindmind/static/js/main.0bad1594.chunk.js.map",
     "runtime-main.js": "/rindmind/static/js/runtime-main.20fffa7c.js",
     "runtime-main.js.map": "/rindmind/static/js/runtime-main.20fffa7c.js.map",
     "static/js/2.80a56dab.chunk.js": "/rindmind/static/js/2.80a56dab.chunk.js",
     "static/js/2.80a56dab.chunk.js.map": "/rindmind/static/js/2.80a56dab.chunk.js.map",
     "index.html": "/rindmind/index.html",
-    "precache-manifest.1c5032f5ffaf60e4ebb4a3d234c2e598.js": "/rindmind/precache-manifest.1c5032f5ffaf60e4ebb4a3d234c2e598.js",
+    "precache-manifest.89430da8401ab45ebf30af7e3420eed9.js": "/rindmind/precache-manifest.89430da8401ab45ebf30af7e3420eed9.js",
     "service-worker.js": "/rindmind/service-worker.js",
     "static/css/main.e26ad487.chunk.css.map": "/rindmind/static/css/main.e26ad487.chunk.css.map",
     "static/js/2.80a56dab.chunk.js.LICENSE.txt": "/rindmind/static/js/2.80a56dab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.20fffa7c.js",
     "static/js/2.80a56dab.chunk.js",
     "static/css/main.e26ad487.chunk.css",
-    "static/js/main.12ce6826.chunk.js"
+    "static/js/main.0bad1594.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e6a6e00f6401b9620a3ca81f98148ee",
+    "revision": "b1ec3bda5eb1967e836c4a660fc32b6c",
     "url": "/rindmind/index.html"
   },
   {

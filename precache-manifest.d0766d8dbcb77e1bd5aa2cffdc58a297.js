@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdf0831c85cb7b32d7828ef014670419",
+    "revision": "a43e1fde14226428770e16001a6304d3",
     "url": "/rindmind/index.html"
   },
   {
-    "revision": "5a1a3a757064a6278bab",
-    "url": "/rindmind/static/css/main.e26ad487.chunk.css"
+    "revision": "a474eecdffd6a9d483b0",
+    "url": "/rindmind/static/css/main.0c89f65d.chunk.css"
   },
   {
     "revision": "1c9f1c998ec070af8953",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rindmind/static/js/2.80a56dab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a1a3a757064a6278bab",
+    "revision": "a474eecdffd6a9d483b0",
     "url": "/rindmind/static/js/main.68d87214.chunk.js"
   },
   {

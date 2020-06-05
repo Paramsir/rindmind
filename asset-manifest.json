@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rindmind/static/css/main.e9246f31.chunk.css",
-    "main.js": "/rindmind/static/js/main.ca529cc5.chunk.js",
-    "main.js.map": "/rindmind/static/js/main.ca529cc5.chunk.js.map",
+    "main.js": "/rindmind/static/js/main.f12bee8b.chunk.js",
+    "main.js.map": "/rindmind/static/js/main.f12bee8b.chunk.js.map",
     "runtime-main.js": "/rindmind/static/js/runtime-main.20fffa7c.js",
     "runtime-main.js.map": "/rindmind/static/js/runtime-main.20fffa7c.js.map",
-    "static/js/2.29808da4.chunk.js": "/rindmind/static/js/2.29808da4.chunk.js",
-    "static/js/2.29808da4.chunk.js.map": "/rindmind/static/js/2.29808da4.chunk.js.map",
+    "static/js/2.c7963a05.chunk.js": "/rindmind/static/js/2.c7963a05.chunk.js",
+    "static/js/2.c7963a05.chunk.js.map": "/rindmind/static/js/2.c7963a05.chunk.js.map",
     "index.html": "/rindmind/index.html",
-    "precache-manifest.238fb5211e294a7c2bcd60ed53cc21ff.js": "/rindmind/precache-manifest.238fb5211e294a7c2bcd60ed53cc21ff.js",
+    "precache-manifest.1dd9f16cb26b40e144d1a49e7de50b12.js": "/rindmind/precache-manifest.1dd9f16cb26b40e144d1a49e7de50b12.js",
     "service-worker.js": "/rindmind/service-worker.js",
     "static/css/main.e9246f31.chunk.css.map": "/rindmind/static/css/main.e9246f31.chunk.css.map",
-    "static/js/2.29808da4.chunk.js.LICENSE.txt": "/rindmind/static/js/2.29808da4.chunk.js.LICENSE.txt"
+    "static/js/2.c7963a05.chunk.js.LICENSE.txt": "/rindmind/static/js/2.c7963a05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20fffa7c.js",
-    "static/js/2.29808da4.chunk.js",
+    "static/js/2.c7963a05.chunk.js",
     "static/css/main.e9246f31.chunk.css",
-    "static/js/main.ca529cc5.chunk.js"
+    "static/js/main.f12bee8b.chunk.js"
   ]
 }
